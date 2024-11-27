@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+body .Herrosection{
+  background-image: url(./assets/images/hero-bg.png);
+}
